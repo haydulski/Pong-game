@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(97, 92, 92);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(41, 19, 19);
+}
+
+div.wrapp {
+    margin: 0;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkgray;
+}
+
+canvas {
+    border: 3px solid #fff;
+}
